@@ -12,7 +12,7 @@
 
 			//Typed========================>
 			var typed = new Typed('.element', {
-			  	strings: ["Hello, I am Abdur Rakib.", "I am from Rajshahi.","I am Front-end Developer.", "I am Creative."],
+			  	strings: ["Hello, I am Abdul Rakib.", "I am from Rangpur.","I am Front-end Developer.", "I am Creative."],
 				typeSpeed: 120,
 				showCursor: false,
 				loop: true,
